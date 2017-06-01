@@ -70,17 +70,19 @@ Tasks:
 
 ## The Scrum Framework (1)
 
-Role
-	Product Owner
-	Development Team
-	Scrum Master
+Roles
+	Product Owner (only one of these; interfaces with owner; makes the final call)
+	Development Team (3 to 9 people)
+	Scrum Master (not a manager; a servant leader)
 Events
 	The Sprint
 	Sprint Planning
-	Daily Scrum
+	Daily Scrum (it is done daily)
 	Sprint Review
 	Sprint Retrospective
 Artifacts
 	Product Backlog
 	Sprint Backlog
 	Increment
+
+Wants to see a product

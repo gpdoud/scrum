@@ -1,3 +1,13 @@
 body {
+	font: normal normal normal 12pt/14.4pt Tahoma, Arial, sans-serif;
 	background-color: cornsilk;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+
+li {
+    display: inline;
 }

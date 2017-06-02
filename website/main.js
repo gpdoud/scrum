@@ -1,6 +1,8 @@
 function init() {
 	var header = document.getElementById("header");
 	initHeader(header);
+	var pageTitle = document.getElementById("pageTitle");
+	initPageTitle(pageTitle)
 	var menu = document.getElementById("menu");
 	initMenu(menu);
 	var footer = document.getElementById("footer");
@@ -28,6 +30,6 @@ function initFooter(footerCtrl) {
 					' | <a href="index.html">HOME</a> | <a href="about.html">About Red Panda</a>' +
 					' | <a href="contact.html">Contact Us</a></p>';
 }
-function pageHeader(str, ctrl) {
-	ctrl.innerHTML = '<h3>' + str + '</h3>';
+function initPageTitle(pageTitleCtrl) {
+	pageTitleCtrl.innerHTML = '<h3>' + pageTitleName + '</h3>';
 }
